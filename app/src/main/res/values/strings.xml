@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Tourist Guide</string>
+    <string name="places">Places</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="shopping">Shopping</string>
+    <string name="events">Events</string>
+    
+    <string name="citadel_qaitbay">Citadel of Qaitbay</string>
+    <string name="citadel_qaitbay_desc"> is a 15th-century defensive fortress located on the Mediterranean sea coast, in Alexandria, Egypt. It was established in 1477 AD by Sultan Al-Ashraf Sayf al-Din Qaitaby.</string>
+    <string name="montaza_palace">Montaza Palace</string>
+    <string name="montaza_palace_desc">is a palace, museum and extensive gardens in the Montaza district of Alexandria, Egypt. It was built on a low plateau east of central Alexandria overlooking a beach on the Mediterranean Sea.</string>
+    <string name="blue_hole">Blue Hole</string>
+    <string name="blue_hole_desc">is a diving location on the southeast Sinai, a few kilometres north of Dahab, Egypt on the coast of the Red Sea. The Blue Hole is a submarine sinkhole, with a maximum depth within the hole of just over 100m.</string>
+    <string name="karnak_temple">Karnak</string>
+    <string name="karnak_temple_desc"> comprises a vast mix of decayed temples, chapels, pylons, and other buildings in Egypt.</string>
+    
+    <string name="esplanade">Esplanade</string>
+    <string name="esplanade_desc">From tasty snacks to a la carte meals to full buffet dinners with live cooking by top chefs, the Esplanade offers 24 hours variety without compromising on quality.</string>
+    <string name="birdcage">Birdcage</string>
+    <string name="birdcage_desc">Everything about the Birdcage is pure Thailand, from the exotic water feature at the door to the authentic etiquette displayed throughout your meal.</string>
+    <string name="kadoura">Kadoura</string>
+    <string name="kadoura_desc">hey serve a high quality sea food. Fresh fish is the role there. You have to try the seafood pasta and the fresh seafood soup.</string>
+    <string name="cook_door">Cook Door</string>
+    <string name="cook_door_desc">Cook Door is a chain of fast food restaurants based in Cairo, Egypt. It is one of Egypt fast food chains along with Smiley Grill.</string>
+    
+    <string name="date_30">30 BC</string>
+    <string name="data_30_desc">30 BC Egypt becomes a province of the Roman Empire.</string>
+    <string name="data_642">642 AD</string>
+    <string name="data_642_desc">642 AD The Arabs captured Alexandria and Egypt became an important part of the Islamic Empire.</string>
+    <string name="data_2950">2950 BC</string>
+    <string name="data_2950_desc">The first Egyptian pyramid is built - the Step Pyramid at Saqqara for King Zoser (aka Djoser) who was one of the kings of the 3rd Dynasty.</string>
+    <string name="data_669">669 BC</string>
+    <string name="data_669_desc">Assyrians from Mesopotamia conquer and rule Egypt.</string>
+    <string name="data_1400">1400 BC</string>
+    <string name="data_1400_desc">King Thutmose III and Ancient Egypt reached the height of its power when military expeditions brought the eastern coast of the Mediterranean Sea under Egyptian rule.</string>
+    
+    <string name="cairo_festival">Cairo Festival</string>
+    <string name="cairo_festival_desc">One of the local favourites to popup in recent times, Cairo Festival City Mall is another grand venue made for the masses. Located at the 5th Settlement in the East of Cairo.</string>
+    <string name="downtown">Downtown</string>
+    <string name="downtown_desc">Downtown Katameya is a superb mall with a lot of outdoor features and pedestrian streets. The entire mall transports you far away from the hustle and bustle of Cairo.</string>
+    <string name="mall_of_arabic">Mall of Arabic</string>
+    <string name="mall_arabic_desc">There’s a Spinny’s hypermarket for groceries, a cinema multiplex, and a huge number of cafes and restaurants. Good things don’t always have to come in small packages.</string>
+    <string name="carrefour">Carrefour</string>
+    <string name="carrefour_desc">Everything you want you will find it here, shopping, cafes, hyper , Cinema, and all in a very big area.</string>
+</resources>
